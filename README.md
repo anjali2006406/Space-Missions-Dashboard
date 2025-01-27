@@ -1,5 +1,7 @@
 # Space Mission Dashboard  
 
+![image](https://github.com/user-attachments/assets/2b141424-736a-4cb5-bc25-16d9622a5da9)
+
 This repository showcases a Tableau project that visualizes data from space missions conducted across various launch sites. The dashboard provides insights into critical metrics like temperature, wind speed, humidity, launch vehicles, mission statuses, and the performance of launch sites.
 
 ## Features  
